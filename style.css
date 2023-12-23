@@ -1,0 +1,72 @@
+body{
+    background: hsl(216, 12%, 8%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Overpass', sans-serif;
+}
+
+.box-body{
+    background: hsl(213, 19%, 18%);
+    height: 350px;
+    width: 350px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+}
+
+.star{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(215, 16%, 23%);
+    margin-bottom: 30px;
+}
+
+.line1{
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.line2{
+    font-weight: 400;
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.rating-scale{
+    margin: 10px 0px 40px 0px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.rating-scale span{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(215, 16%, 23%);
+    color: hsl(216, 12%, 54%);
+}
+
+.submit-button{
+    height: 40px;
+    border-radius: 50px;
+    background: hsl(25, 97%, 53%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+}
