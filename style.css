@@ -5,6 +5,9 @@ body{
     justify-content: center;
     align-items: center;
     font-family: 'Overpass', sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .box-body{
@@ -84,4 +87,40 @@ body{
     background: hsl(0, 0%, 100%);
     color: hsl(25, 97%, 53%);
     cursor: pointer;
+}
+
+/*thank u state*/
+
+.Thanku-state{
+    background: hsl(213, 19%, 18%);
+    height: 350px;
+    width: 350px;
+    border-radius: 30px;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px;
+    font-size: 15.5px;
+    text-align: center;
+}
+
+.Thanku-state img{
+    height: 110px;
+    width: 160px;
+    margin: 10px 0px 40px 0px;
+}
+
+.Thanku-state .selected-no{
+    background: hsl(215, 16%, 23%);
+    color: hsl(25, 97%, 53%);
+    padding: 5px 15px;
+    border-radius: 50px;
+}
+
+.Thanku-state h1{
+    color: hsl(0, 0%, 100%);
+}
+
+.Thanku-state .message{
+    color: hsl(216, 12%, 54%);
 }
