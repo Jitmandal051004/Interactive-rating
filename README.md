@@ -37,16 +37,18 @@ Users should be able to:
 ![](images/Screenshot-Clicked-state.png)
 
 - Alert State
+
 ![](images/Screenshot-Alert.png)
 
 - Thankyou State
+
 ![](images/Screenshot-Thanku-state.png)
 
 
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-HeAX26xXWA)
-- [Live Site URL](https://github.com/Jitmandal051004/Interactive-rating/settings/pages)
+- [Live Site URL](https://jitmandal051004.github.io/Interactive-rating/)
 
 ## My process
 
