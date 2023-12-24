@@ -39,7 +39,7 @@ Users should be able to:
 - Alert State
 ![](images/Screenshot-Alert.png)
 
--Thankyou State
+- Thankyou State
 ![](images/Screenshot-Thanku-state.png)
 
 
